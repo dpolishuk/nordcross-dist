@@ -1,0 +1,35 @@
+{
+  "apps": [
+    {
+      "id": "navi",
+      "title": "Яндекс.Навигатор 21.4 DPI (клубная)",
+      "packageName": "ru.yandex.yandexnavi",
+      "releaseTag": "store-navi",
+      "note": "Тестовая подпись: заменяет официальную, настройки сбросятся"
+    },
+    {
+      "id": "youtube",
+      "title": "YouTube (сборка Monjaro)",
+      "packageName": "com.google.android.youtube",
+      "releaseTag": "store-youtube"
+    },
+    {
+      "id": "rutube",
+      "title": "RUTUBE (сборка Monjaro)",
+      "packageName": "ru.rutube.app",
+      "releaseTag": "store-rutube"
+    },
+    {
+      "id": "vkvideo",
+      "title": "VK Видео (сборка Monjaro)",
+      "packageName": "com.vk.vkvideo",
+      "releaseTag": "store-vkvideo"
+    },
+    {
+      "id": "ytmusic",
+      "title": "YouTube Music",
+      "packageName": "com.google.android.apps.youtube.music",
+      "releaseTag": "store-ytmusic"
+    }
+  ]
+}
